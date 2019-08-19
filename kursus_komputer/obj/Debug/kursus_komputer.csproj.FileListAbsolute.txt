@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\obj\Debug\kursus_komputer.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\obj\Debug\kursus_komputer.Form1.resources
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\obj\Debug\kursus_komputer.Properties.Resources.resources
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\obj\Debug\kursus_komputer.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\obj\Debug\kursus_komputer.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\bin\Debug\kursus_komputer.exe.config
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\bin\Debug\kursus_komputer.exe
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\bin\Debug\kursus_komputer.pdb
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\obj\Debug\kursus_komputer.exe
+C:\Users\Kevin\source\repos\kursus_komputer\kursus_komputer\obj\Debug\kursus_komputer.pdb
